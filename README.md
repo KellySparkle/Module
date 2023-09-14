@@ -9,3 +9,18 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
  Программа написана на C++/CLR
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+ The program is written in C++/CLR.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+A simple program that does a few things:
+
+1. Opening a link in a browser
+2. Opening an application installed on the device
+3. Opening a text document
+   3.1 To open a text document, a separate window was made, in which two text fields are presented, inside of which is written:
+      3.1.1 Name of the text document
+      3.1.2 Contents of the text document
